@@ -4,7 +4,7 @@
 
 I'm a passionate 2nd-year BTech CSE student** with a strong interest in **Problem Solving**, **Web Development**, and **Full Stack Development. I love building innovative and efficient solutions, and I'm always eager to learn new technologies.
 
-- 🌱 Current Focus: Data Structures & Algorithms (DSA), Full Stack Development, and Python Programming.
+- 🌱 Current Focus:  Full Stack Development and Python Programming.
 - 🔧 Languages & Technologies: Python, C, JavaScript, HTML/CSS, Git
 - 🧠 Problem Solving: I enjoy solving algorithmic challenges and competitive programming problems.
 - 🎯 Goal: To continuously grow my skills and build impactful projects in software development.
